@@ -1,0 +1,2 @@
+C:\Users\Reis\Documents\The Tech Academy\C# Course\C# Fundamentals via ASP.Net\Tech-Academy-Pocket-Change-Program-C-\MyFirstWebApp\obj\Debug\MyFirstWebApp.dll
+C:\Users\Reis\Documents\The Tech Academy\C# Course\C# Fundamentals via ASP.Net\Tech-Academy-Pocket-Change-Program-C-\MyFirstWebApp\obj\Debug\MyFirstWebApp.pdb
